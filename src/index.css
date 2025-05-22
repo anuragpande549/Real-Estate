@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.root{
+    margin: o;
+    padding: o;
+    box-sizing: border-box;
+    overflow: hidden;
+    scrollbar-width:none;
+}
